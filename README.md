@@ -1,4 +1,4 @@
-# T4 Models
+## T4 Models
 
 T4 models are used to generate POCO's C# code using your database structure.
 
